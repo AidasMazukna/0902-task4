@@ -12,7 +12,7 @@ while True:
 
     if pasirinkimas == 1:
         while True:
-            try:č
+            try:
                 suma = float(input("Įveskite pajamų sumą: "))
                 break
             except ValueError:
