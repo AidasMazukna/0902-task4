@@ -8,3 +8,4 @@ class IslaiduIrasas(Irasas):
 
     def __str__(self):
         return f"Islaidos {self.suma}, Atsiskaitymo būdas: {self.atsiskaitymo_budas}, Isigyta preke ar paslauga: {self.preke_paslauga}"
+
