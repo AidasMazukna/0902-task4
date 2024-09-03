@@ -2,7 +2,6 @@ from modules.pajamuirasas import PajamuIrasas
 from modules.islaiduirasas import IslaiduIrasas
 import pickle
 
-
 class Biudzetas:
     def __init__(self):
         self.zurnalas = self.nuskaityti_faila()
