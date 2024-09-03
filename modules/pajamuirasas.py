@@ -8,3 +8,4 @@ class PajamuIrasas(Irasas):
 
     def __str__(self):
         return f"Pajamos {self.suma}, Siuntėjas: {self.siuntejas}, Papildoma informacija: {self.papildoma_info}"
+
